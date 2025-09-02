@@ -1,38 +1,28 @@
+<p align="center">
+  <img src="unum-logo.png" alt="UNUM Logo" width="200"/>
+</p>
+
 # 🌐 UNUM – Universal Network for Unique Mastery
 
-![UNUM Logo](https://via.placeholder.com/400x120.png?text=UNUM+LOGO)  
-*(Reemplazá este link con el logo oficial cuando lo tengas en el repo)*
+**UNUM** is an open-source initiative to build a new decentralized ecosystem for human potential.  
+A place where **knowledge, creativity and mastery** are shared without barriers.  
 
 ---
 
-### ✨ Our Vision
-UNUM is building a **decentralized network for conscious collaboration and mastery**.  
-A place where finance, technology, and human evolution meet.  
-We believe in a future of **freedom, creativity, and collective growth**.
+### 🚀 Vision
+To create a **conscious economy** powered by decentralization, AI and human collaboration.  
+Our goal: **empower people** to co-create value and unlock freedom.
 
 ---
 
-### 🗺 Roadmap
-- **Phase 1:** Documentation & Community Building  
-- **Phase 2:** Core Protocol Development  
-- **Phase 3:** Ecosystem Expansion (dApps, governance, integrations)  
-- **Phase 4:** Global Adoption 🚀  
+### 📖 Roadmap & Documentation
+👉 See our [docs](./docs/README.md) for roadmap, whitepaper and official resources.  
 
 ---
 
-### 🔗 Connect with us
-- [Twitter](https://twitter.com/)  
-- [Discord](https://discord.com/)  
-- [Website](https://unum.org/) *(placeholder)*  
+### 🤝 Join Us
+We are looking for **contributors, dreamers and builders**.  
+- 💬 [Discord](https://discord.gg/XXXX)  
+- 🐦 [Twitter](https://twitter.com/unum)  
 
----
-
-### 🤝 Join the Movement
-We are **looking for contributors, visionaries and builders**.  
-If you want to co-create the future → **this is your invitation**.  
-
-👉 *“Looking for contributors. Join us!”*  
-
----
-
-📜 Licensed under the [MIT License](./LICENSE)
+> 🔥 **Looking for contributors. Join us!**
