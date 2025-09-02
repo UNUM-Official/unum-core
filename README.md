@@ -1,30 +1,38 @@
-# UNUM 🌐
+# 🌐 UNUM – Universal Network for Unique Mastery
 
-**Identidad Digital Universal para una nueva era.**  
-Un proyecto abierto y colaborativo para repensar la identidad en la Web3.
-
----
-
-## 🚀 Visión
-UNUM busca sentar las bases de un modelo de **Identidad Digital Universal**, seguro, descentralizado y accesible para todos.
+![UNUM Logo](https://via.placeholder.com/400x120.png?text=UNUM+LOGO)  
+*(Reemplazá este link con el logo oficial cuando lo tengas en el repo)*
 
 ---
 
-## 🔗 Enlaces oficiales
-- Twitter (X): [https://twitter.com/unum_id](https://twitter.com/unum_id)  
-- Instagram: [https://instagram.com/unum.id](https://instagram.com/unum.id)  
-- LinkedIn: [https://linkedin.com/company/unum-id](https://linkedin.com/company/unum-id)  
-- Discord: [https://discord.gg/BRpzWEzj](https://discord.gg/BRpzWEzj)  
-- Formulario de registro: [https://forms.gle/nMyWeEDWZVyS6FPC9](https://forms.gle/nMyWeEDWZVyS6FPC9)  
+### ✨ Our Vision
+UNUM is building a **decentralized network for conscious collaboration and mastery**.  
+A place where finance, technology, and human evolution meet.  
+We believe in a future of **freedom, creativity, and collective growth**.
 
 ---
 
-## 🤝 Cómo colaborar
-1. Sumate a la comunidad en Discord.  
-2. Proponé ideas o abrí issues en este repo.  
-3. Ayudanos a construir la primera versión (MVP).  
+### 🗺 Roadmap
+- **Phase 1:** Documentation & Community Building  
+- **Phase 2:** Core Protocol Development  
+- **Phase 3:** Ecosystem Expansion (dApps, governance, integrations)  
+- **Phase 4:** Global Adoption 🚀  
 
 ---
 
-## 📜 Licencia
-Este proyecto se lanza como **open source** bajo la licencia MIT.  
+### 🔗 Connect with us
+- [Twitter](https://twitter.com/)  
+- [Discord](https://discord.com/)  
+- [Website](https://unum.org/) *(placeholder)*  
+
+---
+
+### 🤝 Join the Movement
+We are **looking for contributors, visionaries and builders**.  
+If you want to co-create the future → **this is your invitation**.  
+
+👉 *“Looking for contributors. Join us!”*  
+
+---
+
+📜 Licensed under the [MIT License](./LICENSE)
